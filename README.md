@@ -1,4 +1,4 @@
-#eastmoney data extractor
+# eastmoney data extractor
 - Extract Stock Data From data.eastmoney.com
 - python version 3.7
 - Change stockcodes.txt content, and run extractData.py
